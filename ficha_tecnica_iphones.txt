@@ -1,0 +1,30 @@
+Ficha técnica de Smartphone Apple iPhone 11 Pro Usado 64GB Câmera Tripla:
+Marca: Apple
+Modelo: Usado
+Linha: iPhone
+Série: 11 Pro
+Tipo de Aparelho: Smartphone
+Quantidade de Chip: 1 Chip
+
+Ficha técnica de Smartphone Apple iPhone 7 Plus Usado 128GB 12.0 MP Câmera Dupla:
+Marca: Apple
+Modelo: Usado
+Linha: iPhone
+Série: 7 Plus
+Tipo de Aparelho: Smartphone
+Quantidade de Chip: 1 Chip
+
+Ficha técnica de Smartphone Apple iPhone 13 Pro 512GB Câmera Tripla:
+Marca: Apple
+Linha: iPhone
+Série: 13 Pro
+Tipo de Aparelho: Smartphone
+Quantidade de Chip: 1 Chip
+
+Ficha técnica de Smartphone Apple iPhone 15 Plus 512GB Câmera Dupla:
+Marca: Apple
+Linha: iPhone
+Série: 15 Plus
+Tipo de Aparelho: Smartphone
+Quantidade de Chip: 1 Chip
+
